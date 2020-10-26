@@ -1,6 +1,6 @@
-![Banner](https://i.imgur.com/WrKWCCR.png)
+![Banner](https://i.imgur.com/by2mL7v.png)
 
-[Resume](https://drive.google.com/file/d/1-_ZdmviZhW-tBFfoKyBbSgwb2u5yCcWH/view) | [Get in touch at sarthaksehgal.me](https://sarthaksehgal.me)
+[Resume](https://sarthaksehgal.me/resume/) | [Get in touch at sarthaksehgal.me](https://sarthaksehgal.me)
 
 Hi, I am Sarthak 👋 I am a software engineer pursuing Computer Science and Economics at BITS Pilani, India. I love solving problems with JavaScript and C++ and creating tools for other developers. Most recently, I worked as a Software Engineering Intern at Bloomberg where I developed a full-stack analytics dashboard using React, Redux, Django, PostgreSQL and Python microservices to monitor the health of the systems and services at [Bloomberg](https://techatbloomberg.com).
 
